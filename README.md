@@ -5,4 +5,4 @@ This repository contains my code for 2022 Google Kick Start Competition. Althoug
 | Round  | Score | Standings |
 | ------------- | ------------- | ------------- |
 | Round D | 63/100 | 861st out of 8062 |
-| Round H | TDB | TDB |
+| Round H | 48/100 | 565th out of 5453  |
